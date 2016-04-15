@@ -1,11 +1,8 @@
-![](http://52.24.85.100/docs/awsgsg-intro.pdf?git=1)
-![](http://52.24.85.100/docs/awsgsg-intro.pdf?git=2)
-![](http://52.24.85.100/docs/awsgsg-intro.pdf?git=3)
-![](http://52.24.85.100/docs/awsgsg-intro.pdf?git=4)
-![](http://52.24.85.100/docs/awsgsg-intro.pdf?git=5)
-![](http://52.24.85.100/imgs/cat.jpg?gitfour=271)
+![](http://52.24.85.100/docs/awsgsg-intro.pdf?git=22)
+![](http://52.24.85.100/docs/awsgsg-intro.pdf?git=23)
 
-![](http://52.24.85.100/docs/lec01.mp4?git=2)
-![](http://52.24.85.100/docs/lec01.mp4?git=3)
-![](http://52.24.85.100/docs/lec01.mp4?git=4)
-![](http://52.24.85.100/docs/lec01.mp4?git=5)
+<!--![](http://52.24.85.100/imgs/cat.jpg?git=22)-->
+<!--![](http://52.24.85.100/imgs/cat.jpg?git=23)-->
+<!--![](http://52.24.85.100/docs/lec01.mp4?git=22)-->
+<!--![](http://52.24.85.100/docs/lec01.mp4?git=23)-->
+
